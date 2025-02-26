@@ -20,6 +20,14 @@ header h1{
     padding-bottom: 15px;
 }
 
+/*ASIDE*/
+
+aside{
+    background-color: #97bf04;
+    padding: 3px;
+    margin: 6px;
+}
+
 /*FOOTER*/
 
 footer{
