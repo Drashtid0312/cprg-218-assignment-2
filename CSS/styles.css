@@ -43,3 +43,21 @@ footer{
     text-align: center;
     padding: 25px;
 }
+
+/*less than 1000px wide*/
+
+@media (min-width: 768px){
+
+    /*HEADER*/
+    
+    .header-container{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 20px;
+    }
+
+    header img{
+        display: inline-block;
+    }
+}
