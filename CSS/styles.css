@@ -20,6 +20,13 @@ header h1{
     padding-bottom: 15px;
 }
 
+/*MAIN*/
+
+figure img{
+    max-width: 100%;
+    border: 5px solid #d9043d;
+}
+
 /*ASIDE*/
 
 aside{
