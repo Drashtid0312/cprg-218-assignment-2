@@ -88,9 +88,13 @@ footer{
         flex-direction: row;
     }
 
+    /*MAIN*/
+
     main{
         flex: 2;
     }
+
+    /*ASIDE*/
 
     aside{
         flex: 1;
