@@ -77,3 +77,24 @@ footer{
         padding-left: 20px;
     }
 }
+
+/*more than 1000px wide*/
+
+@media (min-width: 1000px){
+
+    /*DIV CONTAINER*/
+    #container{
+        display: flex;
+        flex-direction: row;
+    }
+
+    main{
+        flex: 2;
+    }
+
+    aside{
+        flex: 1;
+        padding: 15px;
+    }
+
+}
