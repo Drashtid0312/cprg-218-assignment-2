@@ -19,3 +19,12 @@ header h1{
     margin: 10px;
     padding-bottom: 15px;
 }
+
+/*FOOTER*/
+
+footer{
+    background-color: #d9043d;
+    color: white;
+    text-align: center;
+    padding: 25px;
+}
