@@ -1,5 +1,8 @@
 body{
     font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
 }
 
 /*HEADER*/
@@ -7,6 +10,7 @@ body{
 .header-container{
     background-color: #120323;
     text-align: center;
+    padding: 10px;
 }
 
 header img{
@@ -21,6 +25,11 @@ header h1{
 }
 
 /*MAIN*/
+
+#container{
+    display: flex;
+    flex-direction: column;
+}
 
 figure img{
     max-width: 100%;
