@@ -24,12 +24,14 @@ header h1{
     padding-bottom: 15px;
 }
 
-/*MAIN*/
+/*CONAINER*/
 
 #container{
     display: flex;
     flex-direction: column;
 }
+
+/*MAIN*/
 
 figure img{
     max-width: 100%;
